@@ -1,5 +1,5 @@
 # Rocket
-Capstone percorso IBM Data Science
+Capstone percorso [IBM Data Science Professional Certificate](https://www.coursera.org/learn/applied-data-science-capstone/home).
 
 
 In questo capstone, prevederemo se il primo stadio del Falcon 9 atterrerà con successo. SpaceX pubblicizza i lanci del razzo Falcon 9 sul suo sito web, con un costo di 62 milioni di dollari; altri fornitori costano fino a 165 milioni di dollari ciascuno, gran parte del risparmio è dovuto al fatto che SpaceX può riutilizzare il primo stadio. Pertanto, se possiamo determinare se il primo stadio atterrerà, possiamo determinare il costo di un lancio. Queste informazioni possono essere utilizzate se un'azienda alternativa vuole fare un'offerta contro SpaceX per il lancio di un razzo. In questo modulo, le verrà fornita una panoramica del problema e gli strumenti necessari per completare il corso.
