@@ -22,5 +22,3 @@ In questo capstone proverremo ad individuare il miglior classificatore per preve
 - Python
 - SQL
 - Jupyter Notebook
-
-- 
