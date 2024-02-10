@@ -1,3 +1,9 @@
 File di appunti.
 
-19/01/2024 Inizio corso
+19/01/2024 Inizio corso n° 10 del percorso di certificazione IBM Applied Data Science
+
+Algoritmi di ML utilizzati nel progetto 
+- Logistic regression
+- Support vector machine (SVM)
+- Decision tree
+- K-nearest neighbors (KNN)
