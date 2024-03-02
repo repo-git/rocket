@@ -22,3 +22,9 @@ In questo capstone proverremo ad individuare il miglior classificatore per preve
 - Python
 - SQL
 - Jupyter Notebook
+
+## Modelli predittivi applicati
+- Logistic Regression
+- Support Vector Machine
+- Decision Tree
+- K-Nearest Neighbors
